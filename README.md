@@ -14,7 +14,6 @@
 - [Feature Engineering](#26-feature-engineering)
 - [Análise de Dados](#3-análise-de-dados)
 - [Insights ](#31-insights)
-- [Graphic Cards](#graphic-cards)
 - [Referências](#referências)
 
 
@@ -47,17 +46,15 @@
 ## 3. Análise de Dados
   
 ## 3.1 Insights 
-  1. Menu
-  2. Total de vacinação por estado
-  3. Total de vacinação por região
-  4. Proporção de doses aplicadas
-  5. Vacinação por data(Mês, Ano, Dia da semana)
-## Graphic Cards
-
+  ### 1. Menu
   ![card_1](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/e36bd086-c0d0-4233-b971-ae9625160462)
+  ### 2. Total de vacinação por estado
   ![card_2](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/dd6527aa-3be5-43cc-b397-1f632454d8d6)
+  ### 3. Total de vacinação por região
   ![card_3](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/2c32a9b4-2522-491e-be35-5c5b5245c103)
+  ### 4. Proporção de doses aplicadas
   ![card_4](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/235950ee-ecd0-4676-a6de-791e89c1b2a2)
+  ### 5. Vacinação por data(Mês, Ano, Dia da semana)
   ![card_5](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/eba879a5-eb09-490b-91a1-4f031740e3a5)
 
 ## Referências

@@ -31,7 +31,7 @@
   - 5 [Quantidade de vacinação em 3ª dose](#4-proporção-de-doses-aplicadas)
 
 ## 2. Metodologia
-  
+  ![Metodologia](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/51240dd5-8697-43a6-844b-adfc77cd2348)
 ## Observações
 
 ## 2.1 Configuração do Ambiente

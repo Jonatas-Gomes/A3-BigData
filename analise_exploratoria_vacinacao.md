@@ -1,5 +1,6 @@
-# Análise de dados da vacinação contra a COVID-19
-<img width = 1200 height=300 alt="image" src="https://github.com/Jonatas-Gomes/Politics/assets/57242457/3437b457-f36d-4ac1-b07d-eb9d7726b6c5">
+# Análise de dados Exploratória da vacinação contra a COVID-19
+
+ <img width = 1200 height=350 alt="capa-image" src="https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/48ef8d96-c8b8-48d7-a979-d211eab9459b">
 
 ## Sumário 
 - [Introdução](#1-introdução)
@@ -22,9 +23,16 @@
 
 
 ## 1.1. Objetivos
+  Os objetivos deste estudo é realizar uma Análise Exploratória (Exploratory Data Analysis - EDA) do conjunto de dados da vacinação contra a COVID 19, disponível em(vou linkar a pasta);  
+  a fim  de caracterizar o perfil dos vacinados contra a COVID-19 por estado, região e data. Especificamente serão respondidas as seguintes questões de pesquisa:
+  - 1 [Quantidade de vacinação em 1ª dose](#4-proporção-de-doses-aplicadas)
+  - 2 Quantidade de vacinação em 2021
+  - 3 Quantidade de vacinação no Sudeste
+  - 4 Quantidade de vacinação em 2ª dose
+  - 5 Quantidade de vacinação em 3ª dose
 
 ## 2. Metodologia
-
+  
 ## Observações
 
 ## 2.1 Configuração do Ambiente

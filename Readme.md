@@ -57,7 +57,7 @@ Discussão dos resultados e interpretação dos dados.
 
 
 ## 1.1. Objetivos
-  Os objetivos deste estudo é realizar uma Análise Exploratória (Exploratory Data Analysis - EDA) do conjunto de dados da vacinação contra a COVID 19, disponível em(vou linkar a pasta); a fim  de       caracterizar o perfil dos vacinados contra a COVID-19 por estado, região e data. Especificamente serão respondidas as seguintes questões de pesquisa:
+  Os objetivos deste estudo é realizar uma Análise Exploratória (Exploratory Data Analysis - EDA) do conjunto de dados da vacinação contra a COVID 19, disponível na pasta [data](https://github.com/Jonatas-Gomes/A3-BigData/tree/main/data);  a fim  de       caracterizar o perfil dos vacinados contra a COVID-19 por estado, região e data. Especificamente serão respondidas as seguintes questões de pesquisa:
   - 1 [Quantidade de vacinação em 1ª dose](#4-proporção-de-doses-aplicadas)
   - 2 [Quantidade de vacinação em 2021](#5-vacinação-por-datamês-ano-dia-da-semana)
   - 3 [Quantidade de vacinação no Sudeste](#3-total-de-vacinação-por-região)

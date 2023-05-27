@@ -1,4 +1,4 @@
-# Análise de dados Exploratória da vacinação contra a COVID-19
+# <p align="center">Análise de dados Exploratória da vacinação contra a COVID-19</p>
 
  ![capa](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/fc731d86-4cd7-45b6-8248-9e83d153429c)
 

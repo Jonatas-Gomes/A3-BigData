@@ -1,6 +1,6 @@
 # Análise de dados Exploratória da vacinação contra a COVID-19
 
- <img width = 1200 height=350 alt="capa-image" src="https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/48ef8d96-c8b8-48d7-a979-d211eab9459b">
+ ![capa](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/fc731d86-4cd7-45b6-8248-9e83d153429c)
 
 ## Sumário 
 - [Introdução](#1-introdução)
@@ -75,14 +75,14 @@ Discussão dos resultados e interpretação dos dados.
   ![visaogeral](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/24686b7b-2a0f-43cb-ab32-d602d75dbc30)
 
 ## 2.3 Remoção de Colunas
-  ![remo_colum](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/002138e3-1f2b-4b59-b203-0644e8a975c7)
+  ![newremo_colunms](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/de40bdde-a61b-4896-917a-77581848deaa) 
 
 ## 2.4 Mapeamento de Dados
   
 ## 2.5 Dados Ausentes
-  ![dados_ausentes](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/ef384a66-0deb-49b0-85ce-f5d415d90d5b)
+  ![ausentes](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/af815179-ae77-45e0-a251-50a5d10c4a45)
 ## 2.6 Feature Engineering
-  ![feature_engineering](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/2941642f-f91d-41bb-be09-a9ab7e4383e0)
+  ![eng_recursos](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/2a297506-970c-4239-b7d3-7c9b031d1508)
 
 ## 3. Análise de Dados
   
@@ -92,7 +92,7 @@ Discussão dos resultados e interpretação dos dados.
   ### 2. Total de vacinação por estado
   ![card_2](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/dd6527aa-3be5-43cc-b397-1f632454d8d6)
   ### 3. Total de vacinação por região
-  ![card_3](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/2c32a9b4-2522-491e-be35-5c5b5245c103)
+  ![vacina_regioon](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/77d1686b-139e-4529-a672-3325a09db180)
   ### 4. Proporção de doses aplicadas
   ![card_4](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/235950ee-ecd0-4676-a6de-791e89c1b2a2)
   ### 5. Vacinação por data(Mês, Ano, Dia da semana)

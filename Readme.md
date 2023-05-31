@@ -65,7 +65,7 @@ Discussão dos resultados e interpretação dos dados.
   - 5 [Qual foi a dose com a menor quantidade de aplicação e por quê?](#3-total-de-vacinação-por-região)
 
 ## 2. Metodologia
-  ![Metodologia](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/51240dd5-8697-43a6-844b-adfc77cd2348)
+  ![Metodologia](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/a20f9954-ccd5-45af-ad71-db444dae8d39)
 ## Observações
 
 ## 2.1 Configuração do Ambiente

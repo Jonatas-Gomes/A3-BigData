@@ -58,9 +58,9 @@ Discussão dos resultados e interpretação dos dados.
 
 ## 1.1. Objetivos
   Os objetivos deste estudo é realizar uma Análise Exploratória (Exploratory Data Analysis - EDA) do conjunto de dados da vacinação contra a COVID 19, disponível na pasta [data](https://github.com/Jonatas-Gomes/A3-BigData/tree/main/data);  a fim  de  caracterizar o perfil dos vacinados contra a COVID-19 por estado, região e data. Especificamente serão respondidas as seguintes questões de pesquisa:
-  - 1 [Qual dia da semana teve a maior media de doses aplicadas?](#5-vacinação-por-datamês-ano-dia-da-semana)
+  - 1 [Qual dia da semana teve a maior media de doses aplicadas?](#4-vacinação-por-datamês-ano-dia-da-semana)
   - 2 [Qual foi o total de doses aplicadas em SP?](#2-total-de-vacinação-por-estado)
-  - 3 [Qual foi o ano com o maior numero de doses aplicadas?](#5-vacinação-por-datamês-ano-dia-da-semana)
+  - 3 [Qual foi o ano com o maior numero de doses aplicadas?](#4-vacinação-por-datamês-ano-dia-da-semana)
   - 4 [Qual foi a regiao com o menor numero de doses aplicadas?](#3-total-de-vacinação-por-região)
   - 5 [Qual foi a dose com a menor quantidade de aplicação e por quê?](#3-total-de-vacinação-por-região)
 
@@ -93,9 +93,7 @@ Discussão dos resultados e interpretação dos dados.
   ![card_2](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/dd6527aa-3be5-43cc-b397-1f632454d8d6)
   ### 3. Total de vacinação por região
   ![vacina_regioon](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/77d1686b-139e-4529-a672-3325a09db180)
-  ### 4. Proporção de doses aplicadas
-  ![card_4](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/235950ee-ecd0-4676-a6de-791e89c1b2a2)
-  ### 5. Vacinação por data(Mês, Ano, Dia da semana)
+  ### 4. Vacinação por data(Mês, Ano, Dia da semana)
   ![card_5](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/eba879a5-eb09-490b-91a1-4f031740e3a5)
 
 ## Referências

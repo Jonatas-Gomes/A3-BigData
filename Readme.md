@@ -73,6 +73,7 @@ Discussão dos resultados e interpretação dos dados.
  ![Conf_ambient](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/e1184e7a-ff75-4e14-9c15-4ee53408adec)
 ## 2.2 Visão Geral do Conjunto de Dados
   ![visaogeral](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/24686b7b-2a0f-43cb-ab32-d602d75dbc30)
+  ![ConjuntoDeDados](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/62916921-3266-482a-9ace-3371a8ed00d3)
 
 ## 2.3 Remoção de Colunas
   ![newremo_colunms](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/de40bdde-a61b-4896-917a-77581848deaa) 

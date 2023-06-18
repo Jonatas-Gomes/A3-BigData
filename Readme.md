@@ -124,6 +124,15 @@ Discussão dos resultados e interpretação dos dados.
   O gráfico abaixo apresenta a média de aplicação da vacina por dia da semana, mês e ano.
   ![card_5](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/eba879a5-eb09-490b-91a1-4f031740e3a5)
 
+## Ferramentas
+ - PowerBI
+## Conclusão
+ A análise de dados sobre as datas de vacinação contra a COVID-19 aborda o problema de monitorar o progresso e a cobertura vacinal, fornecendo informações atualizadas sobre o número de pessoas vacinadas em diferentes períodos de tempo.
+
+A análise de dados sobre as datas de vacinação foi criada para garantir que a imunização esteja ocorrendo de maneira adequada e eficiente. Ela permite avaliar se o cronograma estabelecido está sendo seguido, se os grupos prioritários estão sendo alcançados e se não há lacunas na cobertura vacinal, pois a falta de acompanhamento adequado dos dados de vacinação pode levar a atrasos na imunização, desigualdades no acesso às vacinas e uma resposta inadequada à pandemia.
+
+Em conclusão, a análise dos dados da COVID-19 destaca a importância das medidas de saúde pública, da vacinação em massa e da adoção de políticas equitativas para enfrentar os desafios impostos pela pandemia.
+
 ## Referências
 - Link dos conjuntos de dados:
 https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_Vacina_C19/SEIDIGI_DEMAS_Vacina_C19.html#

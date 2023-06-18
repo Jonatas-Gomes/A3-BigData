@@ -13,8 +13,7 @@
 - [Mapeamento de Dados](#24-mapeamento-de-dados)
 - [Dados Ausentes](#25-dados-ausentes)
 - [Feature Engineering](#26-feature-engineering)
-- [Análise de Dados](#3-análise-de-dados)
-- [Insights ](#31-insights)
+- [Insights ](#3-insights)
 - [Conclusão](#conclusão)
 - [Referências](#referências)
 
@@ -108,11 +107,8 @@ Discussão dos resultados e interpretação dos dados.
 ## 2.5 Dados Ausentes
   ![ausentes](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/af815179-ae77-45e0-a251-50a5d10c4a45)
 ## 2.6 Feature Engineering
-  ![eng_recursos](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/2a297506-970c-4239-b7d3-7c9b031d1508)
-
-## 3. Análise de Dados
-  
-## 3.1 Insights 
+  ![eng_recursos](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/2a297506-970c-4239-b7d3-7c9b031d1508)  
+## 3 Insights 
   ### 1. Menu
   ![card_1](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/e36bd086-c0d0-4233-b971-ae9625160462)
   ### 2. Total de vacinação por estado

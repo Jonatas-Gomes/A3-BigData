@@ -91,10 +91,13 @@ Discussão dos resultados e interpretação dos dados.
   ### 1. Menu
   ![card_1](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/e36bd086-c0d0-4233-b971-ae9625160462)
   ### 2. Total de vacinação por estado
+  O gráfico abaixo apresenta a soma de doses aplicadas por estado
   ![card_2](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/dd6527aa-3be5-43cc-b397-1f632454d8d6)
   ### 3. Total de vacinação por região
+  O gráfico abaixo apresenta o total de vacinação por dose e região.
   ![vacina_regioon](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/77d1686b-139e-4529-a672-3325a09db180)
   ### 4. Vacinação por data(Mês, Ano, Dia da semana)
+  O gráfico abaixo apresenta a média de aplicação da vacina por dia da semana, mês e ano.
   ![card_5](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/eba879a5-eb09-490b-91a1-4f031740e3a5)
 
 ## Referências

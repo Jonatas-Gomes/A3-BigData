@@ -15,7 +15,7 @@
 - [Feature Engineering](#26-feature-engineering)
 - [Análise de Dados](#3-análise-de-dados)
 - [Insights ](#31-insights)
-- [Insights ](#conclusão)
+- [Conclusão](#conclusão)
 - [Referências](#referências)
 
 

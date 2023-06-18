@@ -14,6 +14,7 @@
 - [Dados Ausentes](#25-dados-ausentes)
 - [Feature Engineering](#26-feature-engineering)
 - [Insights ](#3-insights)
+- [Ferramentas](#ferramentas)
 - [Conclusão](#conclusão)
 - [Referências](#referências)
 

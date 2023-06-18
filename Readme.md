@@ -65,7 +65,8 @@ Discussão dos resultados e interpretação dos dados.
   - 5 [Qual foi a dose com a menor quantidade de aplicação e por quê?](#3-total-de-vacinação-por-região)
 <details>
   <summary>Qual dia da semana teve a maior media de doses aplicadas?</summary>
-   [O dia da semana com a maior media de doses aplicadas foi quarta-feira com 824.631 doses aplicadas](#4-vacinação-por-datamês-ano-dia-da-semana)
+   O dia da semana com a maior media de doses aplicadas foi quarta-feira com 824.631 doses aplicadas
+   Conforme o item -> [4. Vacinação por Data/Mês/Ano](#4-vacinação-por-datamês-ano-dia-da-semana)
 </details>
 
 ## 2. Metodologia

@@ -65,11 +65,15 @@ Discussão dos resultados e interpretação dos dados.
   - 5 [Qual foi a dose com a menor quantidade de aplicação e por quê?](#3-total-de-vacinação-por-região)
 <details>
   <summary>Qual dia da semana teve a maior média de doses aplicadas?</summary>
+    O dia da semana com a maior média de doses aplicadas foi quarta-feira, com 824.631 doses aplicadas.
   
-  O dia da semana com a maior média de doses aplicadas foi quarta-feira, com 824.631 doses aplicadas.
-  
-  Conforme o item -> [4. Vacinação por Data/Mês/Ano - Dia da Semana](#4-vacinação-por-datamês-ano-dia-da-semana)
-  
+   Conforme o item -> [4. Vacinação por Data/Mês/Ano - Dia da Semana](#4-vacinação-por-datamês-ano-dia-da-semana)
+</details>
+
+<details>
+  <summary>Qual foi o total de doses aplicadas em SP?</summary>
+ 
+   [O total de doses aplicadas em SP foi de 131 milhões](#2-total-de-vacinação-por-estado)
 </details>
 
 ## 2. Metodologia

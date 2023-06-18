@@ -63,6 +63,10 @@ Discussão dos resultados e interpretação dos dados.
   - 3 [Qual foi o ano com o maior numero de doses aplicadas?](#4-vacinação-por-datamês-ano-dia-da-semana)
   - 4 [Qual foi a regiao com o menor numero de doses aplicadas?](#3-total-de-vacinação-por-região)
   - 5 [Qual foi a dose com a menor quantidade de aplicação e por quê?](#3-total-de-vacinação-por-região)
+<details>
+  <summary>Qual dia da semana teve a maior media de doses aplicadas?</summary>
+   [O dia da semana com a maior media de doses aplicadas foi quarta-feira com 824.631 doses aplicadas](#4-vacinação-por-datamês-ano-dia-da-semana)
+</details>
 
 ## 2. Metodologia
   ![Metodologia](https://github.com/Jonatas-Gomes/A3-BigData/assets/57242457/a20f9954-ccd5-45af-ad71-db444dae8d39)
